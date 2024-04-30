@@ -1,0 +1,140 @@
+.achivement{
+
+    width: 1700px;
+    height: 1400px;
+    background-color: #f4f4f4;
+    float: left;
+    margin-top: 100px;
+    margin-left: -900px;
+    border-radius: 30px;
+    
+
+}
+.div25{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -850px;
+    width: 300px;
+    height: 400px;
+    background-color:white;
+}
+.div26{
+    position: absolute;
+    display: flex;
+    margin-top: 385px;
+    margin-left: -420px;
+    width: 300px;
+    height: 400px;
+    background-color:white;
+}
+.div27{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 20px;
+    width: 300px;
+    height: 400px;
+    background-color:white;
+}
+.div28{
+    position: absolute;
+    margin-top: 355px;
+    margin-left: 450px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+}
+.gap{
+margin-top: 1600px;
+margin-left: -1400px;
+}
+.span1{
+position: absolute;
+margin-top: 1600px;
+margin-left: -600px;
+}
+.span2{
+position: absolute;
+margin-top: 1590px;
+margin-left: -90px;
+}
+.span3{
+    margin-top: 1650px;
+    margin-left: -600px;
+    position: absolute;
+    font-size: 30px;
+}
+.span4{
+    position: absolute;
+    margin-top: 1680px;
+    margin-left: -600px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(185, 105, 171);
+}
+.span5{
+    position: absolute;
+    margin-top: 1650px;
+    margin-left: -390px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(185, 105, 171);
+}
+.span6{
+    position: absolute;
+    margin-top: 1620px;
+    margin-left: -310px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(236, 127, 24);
+}
+.span7{
+    position: absolute;
+    margin-top: 1290px;
+    margin-left: -80px;
+}
+.letest{
+    margin-top: 2000px;
+    margin-left: -900px;
+    border-radius: 20px;
+    background-color: white;
+}
+.le1{
+    margin-top: 350px;
+    margin-left: -20px;
+    font-weight: 300;
+    position: absolute;
+    font-size: 20px;
+}
+.letest1{
+    margin-top:2520px ;
+    margin-left: -730px;
+}
+.letestnews1{
+    margin-top: 1930px;
+    margin-left: -270px;
+    border-radius: 20px;
+    background-color: white;
+}
+.letest2{
+    margin-top:2453px ;
+    margin-left: -87px;
+}
+
+.letestnews2{
+    margin-top: 1840px;
+    margin-left: 370px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.letest3{
+    margin-top:2350px ;
+    margin-left: 560px;
+}
+.heading{
+    text-align:center;
+    margin-top: 100px;
+    font-size: 40px;
+    color: #9625ad;
+    font-weight: 500;
+}
